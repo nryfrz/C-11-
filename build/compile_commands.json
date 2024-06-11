@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nryfr/Documents/threadpool/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/nryfr/Documents/threadpool/main.cpp",
+  "file": "/home/nryfr/Documents/threadpool/main.cpp"
+}
+]
